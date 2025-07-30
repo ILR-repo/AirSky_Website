@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://airskygreenenergysolutions.com/sitemap.xml
